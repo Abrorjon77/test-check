@@ -3,5 +3,5 @@ variable "aws_region" {
 }
 
 variable "key_name" {
-  description = "Name of the AWS key pair to use for the instances."
+  description = "Name of the AWS key pair that was used to to use for the instances."
 }
